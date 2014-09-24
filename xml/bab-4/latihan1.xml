@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<data_mahasiswa>
+  <mhs>
+    <name category="KOMSI">Saifulhaq MS</name>
+    <nim>01970</nim>
+    <alamat>Yogyakarta</alamat>
+  </mhs>
+  <mhs>
+    <name category="ELINS">Farisa</name>
+    <nim>03628</nim>
+    <alamat>Madiun</alamat>
+  </mhs>
+  <mhs>
+    <name category="REKMED">Redha</name>
+    <nim>03693</nim>
+    <alamat>Malang</alamat>
+  </mhs>
+</data_mahasiswa>
